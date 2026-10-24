@@ -1,5 +1,7 @@
-AMBROSIA HOMEPAGE UPDATE
+AMBROSIA MULTI-PAGE WEBSITE
 
-This package keeps the current single-page site but updates the Home hero background and gallery to use the new restaurant photos, included under assets/.
+Files: index.html (Home), menu.html (all categories), veg-menu.html, nonveg-menu.html, gallery.html, about.html, contact.html, style.css and assets/.
 
-To publish: open your GitHub repository, upload/replace index.html and upload the new JPG files into the existing assets folder. Keep all the existing assets files too, because the menu pages still reference them. Do not upload the ZIP itself as the website.
+For GitHub Pages: upload all HTML files and style.css to the repository root, and upload the entire assets folder with its JPG files. Do not upload only index.html; all files are needed.
+
+Restaurant contact: +91 63870 97732.
